@@ -1,0 +1,32 @@
+{
+  "name": "partof",
+  "version": "0.0.0",
+  "description": "partof verifies whether one object is part of an other.",
+  "contributors": [
+    {
+      "name": "Golo Roden",
+      "email": "golo.roden@thenativeweb.io"
+    },
+    {
+      "name": "Matthias Wagler",
+      "email": "matthias.wagler@thenativeweb.io"
+    }
+  ],
+  "main": "lib/partOf.js",
+  "dependencies": {},
+  "devDependencies": {
+    "assertthat": "0.6.0",
+    "grunt": "0.4.5",
+    "tourism": "0.20.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thenativeweb/partof.git"
+  },
+  "keywords": [
+    "object",
+    "match",
+    "subset"
+  ],
+  "license": "MIT"
+}
