@@ -12,12 +12,12 @@
       "email": "matthias.wagler@thenativeweb.io"
     }
   ],
-  "main": "lib/partOf.js",
+  "main": "dist/partOf.js",
   "dependencies": {},
   "devDependencies": {
-    "assertthat": "0.6.0",
-    "grunt": "0.4.5",
-    "tourism": "0.20.2"
+    "assertthat": "1.0.0",
+    "roboter": "0.15.6",
+    "roboter-server": "0.15.6"
   },
   "repository": {
     "type": "git",

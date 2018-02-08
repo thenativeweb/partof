@@ -4,21 +4,23 @@ partof verifies whether one object is part of an other.
 
 ## Installation
 
-    $ npm install partof
+```shell
+$ npm install partof
+```
 
 ## Quick start
 
 First you need to add a reference to partof in your application.
 
 ```javascript
-var partOf = require('partof');
+const partOf = require('partof');
 ```
 
 To verify whether an object is part of an other, call the `partOf` function and provide the presumable subset as well as the superset object.
 
 ```javascript
-var potentialSubset = { foo: 'bar' },
-    superset = { foo: 'bar', bas: 'baz' };
+const potentialSubset = { foo: 'bar' },
+      superset = { foo: 'bar', bas: 'baz' };
 
 console.log(partOf(potentialSubset, superset));
 // => true
@@ -26,14 +28,16 @@ console.log(partOf(potentialSubset, superset));
 
 ## Running the build
 
-This module can be built using [Grunt](http://gruntjs.com/). Besides running the tests, this also analyses the code. To run Grunt, go to the folder where you have installed partof and run `grunt`. You need to have [grunt-cli](https://github.com/gruntjs/grunt-cli) installed.
+To build this module use [roboter](https://www.npmjs.com/package/roboter).
 
-    $ grunt
+```shell
+$ bot
+```
 
 ## License
 
 The MIT License (MIT)
-Copyright (c) 2015 the native web.
+Copyright (c) 2015-2018 the native web.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
