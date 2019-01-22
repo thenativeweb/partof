@@ -2,7 +2,7 @@
 
 const assert = require('assertthat');
 
-const partOf = require('../../lib/partOf');
+const partOf = require('../../src/partOf');
 
 suite('partOf', () => {
   test('is a function.', done => {
