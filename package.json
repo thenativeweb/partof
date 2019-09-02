@@ -12,11 +12,12 @@
       "email": "matthias.wagler@thenativeweb.io"
     }
   ],
-  "main": "dist/partOf.js",
+  "main": "build/lib/partOf.js",
+  "types": "build/lib/partOf.d.ts",
   "dependencies": {},
   "devDependencies": {
-    "assertthat": "2.0.1",
-    "roboter": "3.0.4"
+    "assertthat": "4.0.1",
+    "roboter": "7.1.3"
   },
   "repository": {
     "type": "git",

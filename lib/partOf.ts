@@ -1,6 +1,4 @@
-'use strict';
-
-const partOf = function (subset, superset) {
+const partOf = function (subset: any, superset: any): boolean {
   if (typeof subset !== 'object') {
     return false;
   }
@@ -11,7 +9,7 @@ const partOf = function (subset, superset) {
     return false;
   }
 
-  return Object.keys(subset).every(key => {
+  return Object.keys(subset).every((key: string): boolean => {
     const subsetValue = subset[key],
           supersetValue = superset[key];
 
@@ -23,4 +21,4 @@ const partOf = function (subset, superset) {
   });
 };
 
-module.exports = partOf;
+export default partOf;
