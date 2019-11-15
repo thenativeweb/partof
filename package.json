@@ -16,7 +16,7 @@
   "types": "build/lib/partOf.d.ts",
   "dependencies": {},
   "devDependencies": {
-    "assertthat": "4.0.2",
+    "assertthat": "5.0.1",
     "roboter": "9.1.1"
   },
   "repository": {
