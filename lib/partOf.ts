@@ -21,4 +21,4 @@ const partOf = function (subset: any, superset: any): boolean {
   });
 };
 
-export default partOf;
+export { partOf };

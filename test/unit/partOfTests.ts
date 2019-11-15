@@ -1,5 +1,5 @@
-import assert from 'assertthat';
-import partOf from '../../lib/partOf';
+import { assert } from 'assertthat';
+import { partOf } from '../../lib/partOf';
 
 suite('partOf', (): void => {
   test('is a function.', async (): Promise<void> => {

@@ -23,13 +23,13 @@ $ npm install partof
 First you need to add a reference to partof in your application:
 
 ```javascript
-const partOf = require('partof').default;
+const { partOf } = require('partof');
 ```
 
 If you use TypeScript, use the following code instead:
 
 ```typescript
-import partOf from 'partof';
+import { partOf } from 'partof';
 ```
 
 To verify whether an object is part of an other, call the `partOf` function and provide the presumable subset as well as the superset object:
