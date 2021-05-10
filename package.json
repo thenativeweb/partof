@@ -1,6 +1,6 @@
 {
   "name": "partof",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "partof verifies whether one object is part of an other.",
   "contributors": [
     {

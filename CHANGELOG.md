@@ -1,3 +1,10 @@
+## [3.0.3](https://github.com/thenativeweb/partof/compare/3.0.2...3.0.3) (2021-05-10)
+
+
+### Bug Fixes
+
+* bump hosted-git-info from 2.8.8 to 2.8.9 ([#282](https://github.com/thenativeweb/partof/issues/282)) ([a1c15ef](https://github.com/thenativeweb/partof/commit/a1c15ef0534ec751c7c66ee70e6b3d0cc8f9f35e))
+
 ## [3.0.2](https://github.com/thenativeweb/partof/compare/3.0.1...3.0.2) (2021-03-25)
 
 
