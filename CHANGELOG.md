@@ -1,3 +1,10 @@
+## [3.0.5](https://github.com/thenativeweb/partof/compare/3.0.4...3.0.5) (2021-06-08)
+
+
+### Bug Fixes
+
+* bump trim-newlines from 3.0.0 to 3.0.1 ([#294](https://github.com/thenativeweb/partof/issues/294)) ([63f4c5e](https://github.com/thenativeweb/partof/commit/63f4c5eb8af160c696f0c2faff2b82cc37dafbe8))
+
 ## [3.0.4](https://github.com/thenativeweb/partof/compare/3.0.3...3.0.4) (2021-06-08)
 
 
