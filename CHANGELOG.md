@@ -1,3 +1,10 @@
+## [3.0.4](https://github.com/thenativeweb/partof/compare/3.0.3...3.0.4) (2021-06-08)
+
+
+### Bug Fixes
+
+* bump glob-parent from 5.1.1 to 5.1.2 ([#295](https://github.com/thenativeweb/partof/issues/295)) ([6fe7bd8](https://github.com/thenativeweb/partof/commit/6fe7bd834404f270ce7f8b9dd58542a50e037995))
+
 ## [3.0.3](https://github.com/thenativeweb/partof/compare/3.0.2...3.0.3) (2021-05-10)
 
 
