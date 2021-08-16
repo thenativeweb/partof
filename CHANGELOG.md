@@ -1,3 +1,10 @@
+## [3.0.6](https://github.com/thenativeweb/partof/compare/3.0.5...3.0.6) (2021-08-16)
+
+
+### Bug Fixes
+
+* bump path-parse from 1.0.6 to 1.0.7 ([#308](https://github.com/thenativeweb/partof/issues/308)) ([dbf33cc](https://github.com/thenativeweb/partof/commit/dbf33ccee8c18f3ee01b35923f2ac67704cc1236))
+
 ## [3.0.5](https://github.com/thenativeweb/partof/compare/3.0.4...3.0.5) (2021-06-08)
 
 
