@@ -1,3 +1,10 @@
+## [3.0.7](https://github.com/thenativeweb/partof/compare/3.0.6...3.0.7) (2021-08-24)
+
+
+### Bug Fixes
+
+* add exclude to tsconfig.json, remove engine constraint ([#311](https://github.com/thenativeweb/partof/issues/311)) ([cdd9c9d](https://github.com/thenativeweb/partof/commit/cdd9c9d3ed24d7b3768aeefa36442989735edf45))
+
 ## [3.0.6](https://github.com/thenativeweb/partof/compare/3.0.5...3.0.6) (2021-08-16)
 
 
